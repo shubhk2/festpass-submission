@@ -1,0 +1,1 @@
+PASS: seven real-JAR commands; persistence, sold-out rejection, cancellation, and seat reuse verified.
