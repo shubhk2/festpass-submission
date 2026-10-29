@@ -130,7 +130,7 @@ public final class FestPass {
 
     private static void usage(PrintStream out) {
         out.println("""
-                FestPass - campus event registration
+                FestPass - campus event registration (shubhk2)
                 Usage: java -jar build/festpass.jar [--data FILE] COMMAND
                   add-event ID "TITLE" CAPACITY
                   list
