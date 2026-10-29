@@ -68,6 +68,7 @@ public final class BookingService {
         if (!event.students.contains(studentId)) {
             throw new IllegalArgumentException("No booking for student: " + studentId);
         }
+        event.students.remove(studentId);
     }
 
     public Event event(String id) {
